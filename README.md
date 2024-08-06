@@ -2,7 +2,7 @@
 [![MasterHead](https://assets.about.me/background/users/o/p/e/opediatechnology_1683870687_173.jpg)](https://Vikash810)
 <h1 align="center">Hi 👋, I'm Vikash kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img alt="Gif" align="right" width="400" src="https://imgs.search.brave.com/HGm5LoENrvrB3OEz8MysWEBq6an8qpHl1uWx6O3enrE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/OHRyX0NVNjczME1B/QUFBTS93ZWItZGV2/LXdlYnNpdGUtZGV2/ZWxvcG1lbnQuZ2lm.gif"/>
+<img alt="Gif" align="right" width="400" height="300" src="https://imgs.search.brave.com/HGm5LoENrvrB3OEz8MysWEBq6an8qpHl1uWx6O3enrE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/OHRyX0NVNjczME1B/QUFBTS93ZWItZGV2/LXdlYnNpdGUtZGV2/ZWxvcG1lbnQuZ2lm.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas810&label=Profile%20views&color=0e75b6&style=flat" alt="vikas810" /> </p>
 
